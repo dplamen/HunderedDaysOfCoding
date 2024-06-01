@@ -4,31 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59dec398-e3a6-4a21-bef9-bbc312bd920d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/HunderedDaysOfCoding.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0_test/data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0_test/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_coffee_machine/data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_coffee_machine/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-17-start/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-18-start/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-19-start/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hirst_painting/image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hirst_painting/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quiz-game-start/data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quiz-game-start/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quiz-game-start/question_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quiz-game-start/quiz_brain.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snake_game/food.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snake_game/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snake_game/scoreboard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snake_game/snake.py" afterDir="false" />
+    <list default="true" id="59dec398-e3a6-4a21-bef9-bbc312bd920d" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/day-23-start/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-23-start/new_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mail_merge/Input/Letters/starting_letter.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mail_merge/Input/Names/invited_names.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mail_merge/Output/ReadyToSend/example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mail_merge/Output/ReadyToSend/letter_for_Aang.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mail_merge/Output/ReadyToSend/letter_for_Appa.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mail_merge/Output/ReadyToSend/letter_for_Katara.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mail_merge/Output/ReadyToSend/letter_for_Momo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mail_merge/Output/ReadyToSend/letter_for_Sokka.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mail_merge/Output/ReadyToSend/letter_for_Toph.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mail_merge/Output/ReadyToSend/letter_for_Uncle Iroh.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mail_merge/Output/ReadyToSend/letter_for_Zuko.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mail_merge/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pong_game/ball.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pong_game/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pong_game/paddle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pong_game/scoreboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snake_game/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtle-crossing-start/car_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtle-crossing-start/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtle-crossing-start/player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtle-crossing-start/scoreboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake_game/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/snake_game/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake_game/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/snake_game/scoreboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake_game/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/snake_game/snake.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,12 +48,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "dplamen"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;dplamen&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -116,8 +119,23 @@
       <workItem from="1716531675876" duration="14905000" />
       <workItem from="1716578553259" duration="6187000" />
       <workItem from="1716624459308" duration="5241000" />
-      <workItem from="1716642173279" duration="411000" />
+      <workItem from="1716642173279" duration="1236000" />
+      <workItem from="1716656413003" duration="1016000" />
+      <workItem from="1716664162436" duration="1338000" />
+      <workItem from="1716919363481" duration="317000" />
+      <workItem from="1717082850581" duration="10458000" />
+      <workItem from="1717238053360" duration="6331000" />
+      <workItem from="1717263438209" duration="7773000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1716642854778</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716642854778</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,13 +196,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/HunderedDaysOfCoding$main.coverage" NAME="main Coverage Results" MODIFIED="1716640953050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/snake_game" />
+    <SUITE FILE_PATH="coverage/HunderedDaysOfCoding$main.coverage" NAME="main Coverage Results" MODIFIED="1717276884528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mail_merge" />
     <SUITE FILE_PATH="coverage/HunderedDaysOfCoding$food.coverage" NAME="food Coverage Results" MODIFIED="1716626975273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/snake_game" />
     <SUITE FILE_PATH="coverage/HunderedDaysOfCoding$quiz_brain.coverage" NAME="quiz_brain Coverage Results" MODIFIED="1716313027361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/quiz-game-start" />
     <SUITE FILE_PATH="coverage/HunderedDaysOfCoding$snake.coverage" NAME="snake Coverage Results" MODIFIED="1716586057900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/snake_game" />
-    <SUITE FILE_PATH="coverage/HunderedDaysOfCoding$scoreboard.coverage" NAME="scoreboard Coverage Results" MODIFIED="1716639245143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/snake_game" />
+    <SUITE FILE_PATH="coverage/HunderedDaysOfCoding$scoreboard.coverage" NAME="scoreboard Coverage Results" MODIFIED="1717243717184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/turtle-crossing-start" />
     <SUITE FILE_PATH="coverage/HunderedDaysOfCoding$question_model.coverage" NAME="question_model Coverage Results" MODIFIED="1716309331550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/quiz-game-start" />
     <SUITE FILE_PATH="coverage/HunderedDaysOfCoding$Doctests_in_turtle.coverage" NAME="Doctests in turtle Coverage Results" MODIFIED="1716498600816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Programs/Python/Python312/Lib" />
   </component>
